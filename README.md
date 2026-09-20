@@ -82,7 +82,7 @@ The Hugging Face dataset contains 5,671 labeled samples of benign and malicious 
 
 The dataset includes several prompt-injection patterns and benign security-related examples, including SQL DDL/DCL statements.
 
-**Dataset:** Prompt Injection Repository File Dataset
+**Dataset:** [Prompt Injection Repository File Dataset](https://huggingface.co/datasets/prodnull/prompt-injection-repo-dataset)
 
 The original dataset is not a database-agent dataset. Its examples will be adapted to database records for this project.
 
@@ -90,7 +90,7 @@ The original dataset is not a database-agent dataset. Its examples will be adapt
 
 The Kaggle dataset contains network and user-behavior features for cybersecurity intrusion detection. It provides context for creating realistic security incidents that the agent can investigate.
 
-**Dataset:** Cybersecurity Intrusion Detection Dataset
+**Dataset:** [Cybersecurity Intrusion Detection Dataset](https://www.kaggle.com/datasets/dnkumars/cybersecurity-intrusion-detection-dataset/data)
 
 It will be used as cybersecurity context rather than treated as an existing autonomous-agent benchmark.
 
