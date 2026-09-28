@@ -220,6 +220,9 @@ The system also treats every field retrieved from the database as **untrusted by
 
 The figure below (pipeline diagram) presents the complete data flow.
 
+![Overall Pipeline](https://github.com/Md-Ali-Azad/Trustworthy-Agentic-AI-for-Database-Security/blob/main/images/agentic-ai.png)
+
+
 The architecture has six main stages:
 
 1. Data sourcing
